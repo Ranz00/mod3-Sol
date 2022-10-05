@@ -2,7 +2,7 @@
     box-sizing: border-box;
 }
 body{
-    font-family: sans-serif;
+    font-family: 'Volkhov', serif;
     margin: 0px;
     padding: 0px;
     background-color: #A8AFBA;
@@ -13,7 +13,7 @@ h1{
     font-weight: bold;
     text-align: center;
     font-size: 175%;
-    color: #390e41;
+    color: #7B68EE;
 }
 
 h2{
@@ -22,7 +22,7 @@ h2{
     text-align: center;
     font-size: 2em;
     font-family: italic;
-    color: #390e41;
+    color: #00CED1;
     margin-top: 10px;
     margin-bottom: 35px;
 
@@ -42,7 +42,7 @@ div.box{
     font-weight: normal;
     font-weight: bold;
     text-transform: uppercase;
-    color: #390e41;
+    color: #7B68EE;
 }
 div.b-body{
     clear: right;
@@ -52,8 +52,7 @@ div.b-body{
 }
 .navbar{
     background-color: rgb(206, 181, 218);
- 
-    font-family: italic;
+    font-family: sans-serif;
 }
 .navbar a{
     text-decoration: none;
