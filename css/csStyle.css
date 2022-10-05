@@ -2,10 +2,10 @@
     box-sizing: border-box;
 }
 body{
-    font-family: 'Volkhov', serif;
+    font-family: 'Volkhov', sans-serif;
     margin: 0px;
     padding: 0px;
-    background-color: #A8AFBA;
+    background-color: #1E90FF;
 
 }
 h1{
@@ -21,8 +21,8 @@ h2{
     font-weight: bold;
     text-align: center;
     font-size: 2em;
-    font-family: italic;
-    color: #00CED1;
+    font-family: sans-serif;
+    color: #1E90FF;
     margin-top: 10px;
     margin-bottom: 35px;
 
